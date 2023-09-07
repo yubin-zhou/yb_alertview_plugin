@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - yb_alertview_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - yb_alertview_plugin (from `.symlinks/plugins/yb_alertview_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  yb_alertview_plugin:
+    :path: ".symlinks/plugins/yb_alertview_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  yb_alertview_plugin: 6d7a26af2297554614ece8adda6e9aead35dbe14
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.12.1
